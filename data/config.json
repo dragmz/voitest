@@ -1,0 +1,5 @@
+{
+  "GossipFanout": 9,
+  "DNSBootstrapID": "<network>.voi.network",
+  "EnableCatchupFromArchiveServers": true
+}
